@@ -1,0 +1,6 @@
+{
+  "version": "3.13.1",
+  "source": "http://www.mtgjson.com/",
+  "AllCards-x":"https://raw.githubusercontent.com/MoiRouhs/dbmtg/master/mtgbase/AllCards-x.gz",
+  "AllSets-x":"https://raw.githubusercontent.com/MoiRouhs/dbmtg/master/mtgbase/AllSets-x.gz"
+}
